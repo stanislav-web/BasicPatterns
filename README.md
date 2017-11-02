@@ -502,7 +502,7 @@ $invoicesCargo = (new InvoicesCargo())->setDb($db);
 Паттерн является не отьемлемой частью пятого принципа объектно ориентированного проектирования SOLI:D Dependency Inversion Principe.
 Наследование - является прямой противоположностью.
 
-### 4. Полезные ссылки
+### 5. Полезные ссылки
 1. [Шпаргалка по паттернам](/cheatsheet.pdf)
 2. [Архитектура корпоративных программных приложений. М. Фаулер](http://www.ooart.ru/uploads/book/arhitektura_korporativnyh_programmnyh_prilozhenij_fauler_m.pdf)
 2. [Как два программиста хлеб пекли](https://habrahabr.ru/post/153225/)
